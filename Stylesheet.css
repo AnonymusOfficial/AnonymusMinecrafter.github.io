@@ -1,0 +1,21 @@
+#MainTitle{
+text-align:center;
+color: red;
+text-decoration:underline;
+font-family:cursive;
+}
+.important {
+font-size:20px;
+}
+.bar {
+height: 50px;
+width: 100%;
+margin: 0 auto;
+background-color: aqua;
+display: block;
+float: left;
+padding: 0px;
+}
+h2 {
+text-align:center;
+}
